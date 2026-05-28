@@ -1,0 +1,2 @@
+.tabs{display:flex;gap:10px;justify-content:center;margin:20px 0}.tabs button{background:#ddd;border:none;cursor:pointer;padding:10px 20px}.tabs .active{background:#000;color:#fff}.card{background:#fff;border-radius:10px;box-shadow:0 0 10px #ccc;margin-top:20px;padding:20px}.follower-card,.repo-card{border-bottom:1px solid #ddd;padding:10px 0}.follower-card{align-items:center;display:flex;gap:15px}
+/*# sourceMappingURL=main.2e9863a4.css.map*/
